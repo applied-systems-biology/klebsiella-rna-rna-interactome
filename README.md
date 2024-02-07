@@ -1,12 +1,12 @@
 The global RNA-RNA interactome of Klebsiella pneumoniae unveils a small RNA regulator of cell division
 
-Eric Ruhland [1, 2], Malte Siemers [1, 2, 4], Ruman Gerst [1, 3, 4], Felix SpÃ¤th [1], Laura Vogt [1], Marc-Thilo Figge [1, 2, 3], Kai Papenfort [1, 2], Kathrin Sophie Fröhlich [1, 2, *]
+Eric Ruhland [1, 2], Malte Siemers [1, 2, 4], Ruman Gerst [1, 3, 4], Felix Späth [1], Laura Vogt [1], Marc-Thilo Figge [1, 2, 3], Kai Papenfort [1, 2], Kathrin Sophie Fröhlich [1, 2, *]
 
 1 Institute of Microbiology, Friedrich Schiller University, Jena, Germany
 
 2 Microverse Cluster, Friedrich Schiller University, Jena, Germany
 
-3 Leibniz Institute for Natural Product Research and Infection Biology - Hans KnÃ¶ll Institute, Jena,
+3 Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute, Jena,
 Germany
 
 4 equal contributions
